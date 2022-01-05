@@ -1,7 +1,7 @@
 # Проект: Путешествие по России
 ------------------
 ![Screenshot of page](./images/russian-travel.png)
-[Ссылка на проект]()
+[Ссылка на проект](https://thebarbakov.github.io/russian-travel/index.html)
 ***
 
 Здесь будет проект о путешествии по России.

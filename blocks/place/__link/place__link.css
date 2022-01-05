@@ -1,12 +1,10 @@
 .place__link {
     display: flex;
-    font-family: Inter;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 22px;
     text-decoration-line: underline;
-    color: #FFF;
     margin-top: 12px;
     opacity: 1;
     transition: opacity .5s linear;

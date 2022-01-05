@@ -18,10 +18,10 @@
 @media screen and (max-width: 767px) {
     .cover__subtitle {
         top: 59.5%;
-        font-size: 14px;
-        line-height: 16px;
-        width: 288px;
-        left: calc(50% - 144px);
+        left: calc(50% - ((100vw/1.1111)/2));
+        width: calc(100vw/1.1111);
+        font-size: calc(100vw/22.86);
+        line-height: calc(100vw/20);
     }
 }
 
@@ -34,6 +34,9 @@
 @media screen and (min-width: 1280px) {
     .cover__subtitle {
         top: 58%;
-        left: calc(46.25vw - 180px);
+        left: calc(46.25vw - ((100vw/3.55)/2));
+        width: calc(100vw/3.55);
+        font-size: calc(100vw/71.111);
+        line-height: calc(100vw/58.18);
     }
 }

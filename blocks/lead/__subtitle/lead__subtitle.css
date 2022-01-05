@@ -5,6 +5,7 @@
     line-height: 36px;
     text-align: center;
     margin: 0;
+    width: 640px;
 }   
 
 @media screen and (max-width: 767px) {
@@ -13,6 +14,7 @@
         line-height: 20px;
         margin-top: 16px;
         margin-bottom: 40px;
+        width: calc(100vw/1.1111);
     }
 }
 
@@ -27,6 +29,7 @@
     .lead__subtitle {
         margin-top: 53.23px;
         margin-bottom: 65.67px;
+        width: 487.09px;
     }
 }
 

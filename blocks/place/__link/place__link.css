@@ -9,8 +9,9 @@
     opacity: 1;
     transition: opacity .5s linear;
     color: #FFF;
+    max-width: 100%;
 }
 
 .place__link:hover {
-opacity: 0.8;
+    opacity: 0.8;
 }

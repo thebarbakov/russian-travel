@@ -5,6 +5,7 @@
     line-height: 12px;
     letter-spacing: 2px;
     margin: 0;
+    max-width: 100%;
 }
 
 .place__url-heading::after {

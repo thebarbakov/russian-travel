@@ -3,6 +3,7 @@
     margin-top: 92px;
     margin-left: 48px;
     flex-direction: column;
+    max-width: 776px;
 }
 
 
@@ -35,4 +36,8 @@
     }
 }
 
-
+@media screen and (min-width: 1440px) {
+    .intro {
+        margin-left: calc(50vw - 553.5px);
+    }
+}

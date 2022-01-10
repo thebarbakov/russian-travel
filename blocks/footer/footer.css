@@ -8,6 +8,7 @@
     margin-left: 48px;
     margin-right: 48px;
     align-items: center;
+    max-width: 1344px;
     
 }
 
@@ -28,5 +29,12 @@
         width: calc(100vw - 48px);
         margin-left: 24px;
         margin-right: 24px;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .footer {
+        margin-left: auto;
+        margin-right: auto;
     }
 }

@@ -6,6 +6,8 @@
     flex-direction: column;
     align-items: center;
     height: calc(100vw/1.6);
+    max-height: 832.5px;
+    max-width: 1332px;
 }
 
 @media screen and (max-width: 767px) {

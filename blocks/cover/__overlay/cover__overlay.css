@@ -8,8 +8,11 @@
     position: relative;
     color: #fff;
     text-decoration: none;
+    background-color: rgb(42, 44, 47, .3);
     z-index: 3;
     transition: background-color .5s linear;
+    max-height: 832.5px;
+    max-width: 1332px;
 }
 
 .cover__overlay:hover {
